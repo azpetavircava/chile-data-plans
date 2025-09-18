@@ -60,3 +60,10 @@ layout: default
 
 　　最后一个小小的观察：在智利的咖啡馆里，很少有人问Wi-Fi密码，因为大家的数据流量根本用不完。入乡随俗，买一张足够的流量卡，彻底解放自己，像当地人一样自由地探索吧。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Chile SIM 卡购买与激活指南](https://faciylike.github.io/chile-sim-guides)
